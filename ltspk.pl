@@ -5,7 +5,7 @@ use warnings;
 use vars qw($VERSION %IRSSI);
 $VERSION="0.0.1";
 %IRSSI = (
-	authors	=> 'Christian \'mordeth\' Weber',
+	authors	=> 'Joshua \'Presley\' Wilkerson',
 	contact	=> 'xeon826@gmail.com',
 	name	=> 'alame',
 	description	=> 'Converts towards l33t',
